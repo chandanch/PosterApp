@@ -1,20 +1,15 @@
 # Typescript Clean Architecture
 
-It is my attempt to create Clean Architecture based application in Typescript.
+A Sample Blog post Application buit using Clean Architecture in TypeScript
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](./LICENSE)
-![Build](https://github.com/pvarentsov/typescript-clean-architecture/workflows/Build/badge.svg)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pvarentsov_typescript-clean-architecture&metric=alert_status)](https://sonarcloud.io/dashboard?id=pvarentsov_typescript-clean-architecture)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=pvarentsov_typescript-clean-architecture&metric=coverage)](https://sonarcloud.io/dashboard?id=pvarentsov_typescript-clean-architecture)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=pvarentsov_typescript-clean-architecture&metric=ncloc)](https://sonarcloud.io/dashboard?id=pvarentsov_typescript-clean-architecture)
 
 <p align="center"> 
     <img src="./asset/IPosterStructure.png">
 </p>
 
-## IPoster
+## Poster App
 
-IPoster is a simple fictional application that allows users to publish posts.
+PosterApp is a simple fictional application that allows users to publish posts.
 
 #### Main Entities
 1. User
